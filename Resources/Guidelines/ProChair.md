@@ -33,6 +33,8 @@ skim the rest of this page and the following others:
   [Copyright policies](https://authors.acm.org/main.html).
 - Some special considerations for organizers of workshops and similar events
   can be found on [this page](/Resources/Guidelines/Workshops).
+- Some SIGPLAN Conferences are published in
+  [PACMPL](https://dl.acm.org/journal/pacmpl).
 
 _Please help us keep this document (and the rest of this site) up to date:_ If you notice any errors, duplications, inconsistencies, etc., please inform the [SIGPLAN vice chair](mailto:vc_sigplan@acm.org).
 
@@ -150,13 +152,13 @@ copyright of the work and grants ACM an exclusive permssion-to-publish license;
 Author transfers copyright of the work to ACM.  For more information, please see
 [ACM Copyright
 Policy](http://www.acm.org/publications/policies/copyright-policy) and [ACM
-Author Rights](http://authors.acm.org/main.html).  
+Author Rights](http://authors.acm.org/main.html).
 
 Proceedings published by ACM as an issue of PACMPL are Gold Open Access, and
 the PACMPL editorial board recommends the first option (author retains
 copyright of the work, licenses the work with a [Creative Commons
 license](https://creativecommons.org), and grants
-ACM a non-exclusive permission-to-publish license).  
+ACM a non-exclusive permission-to-publish license).
 The PACM Steering Committee also requires conferences to collect statistics
 about the review process---see [here](https://www.acm.org/publications/pacm/title-assessment) for details.
 

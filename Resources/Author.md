@@ -86,6 +86,10 @@ appearance.
 
 {% endcomment %}
 
+## PACMPL
+
+If you are publishing in PACMPL, please see its [Author Guidelines](https://dl.acm.org/journal/pacmpl/author-guidelines).
+
 ## Republication Policy
 
 Please review SIGPLAN's
